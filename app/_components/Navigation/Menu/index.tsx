@@ -13,7 +13,7 @@ const Menu = () => {
               alt='Sweet Static logo'
               className='mx-auto'
             />
-            <div className='font-bold text-inherit ml-5 text-lg'>Sweet Static</div>
+            <div className='font-medium text-inherit ml-5 text-lg'>Sweet Static Internal Tooling</div>
           </NavbarBrand>
         </Navbar>
     )
